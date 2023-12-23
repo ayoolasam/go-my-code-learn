@@ -1,0 +1,32 @@
+
+h1{
+    font-family:Impact, Haettenschweiler;
+    color:black;
+    text-align: center;
+    font-style: italic;
+    font-weight: 500;
+}
+section{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+body{
+    background-color:maroon
+}
+nav{
+    background-color: chocolate;
+    align-items: center;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:Impact, Haettenschweiler;
+    color:black;
+    text-align: center;
+    
+    font-weight: 500;
+    display:flex;
+    justify-content: space-between;
+    padding:10px
+    a
+    
+}
