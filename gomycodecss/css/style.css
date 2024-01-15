@@ -1,0 +1,54 @@
+
+
+
+.border-test{
+    background:red;
+    width:300px;
+    height:300px;
+    border:10px solid black;
+}
+
+button {
+    background-color:red;
+    color:antiquewhite;
+    font-size:50px;
+}
+.content{
+    width: 300px;
+    height:400px;
+    background-color: brown;
+}
+#content-2{
+   width:100%;
+    background-color:green;
+    color:white;
+    font-size:20px;
+}
+.circle{
+    border-radius: 50%;
+    background-color: brown;
+    width:200px;
+    height:200px;
+    margin:auto;
+    
+
+}
+.border-frame{
+    border:3px solid black;
+height: 200px;
+width:500px;
+margin:auto;
+background-color: blueviolet;
+margin-top:20px;
+border-top-right-radius: 80px;
+border-top-left-radius: 80px;
+}
+.border-radius{
+    background-color:blue;
+    height:200px;
+    width:300px;
+    border-radius:30%;
+    margin: 10% auto;
+    border:10px red solid;
+    
+}
